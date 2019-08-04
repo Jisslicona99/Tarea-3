@@ -1,0 +1,15 @@
+{
+  "name": "hw3",
+  "version": "1.0.0",
+  "description": "Tarea3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "NicolleLicona",
+  "license": "ISC",
+  "keywords": [],
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  }
+}
